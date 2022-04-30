@@ -1,0 +1,36 @@
+.bg-pink{
+    background-color: #f04688;
+    margin-bottom: 20px;
+}
+
+.btn-inscricao{
+    background-color: #fff;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 12px;
+    color: #f04688;
+    font-weight: bold;
+    border-radius: 100px;
+}
+
+#capsula{
+    display: flex;
+    align-items: center;
+}
+
+#lista-vip{
+    background-color: #f04688;
+    color: #fff;
+    font-weight: bold;
+    text-align: center;
+    font-family: Verdana, Geneva, sans-serif, 'IBM Plex Sans', arial, sans-serif;
+}
+
+#conheca-curso{
+    font-family: "arboria", Sans-serif;
+    font-weight: 900;
+}
+
+.link-footer{
+    text-decoration: none;
+    color: #000;
+}
